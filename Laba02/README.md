@@ -1,6 +1,7 @@
-### Laba 02
+# Laba 02
 
-Executing:
+### Executing
 `python main.py path-to-images-folder`
 
+### Example
 ![Icon](./screenshot.png)
